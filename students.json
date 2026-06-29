@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Hemasai",
+    "age": 21,
+    "grade": 7.1,
+    "dept": "CSE"
+  },
+  {
+    "name": "Dhoni",
+    "age": 21,
+    "grade": 8.5,
+    "dept": "CSE"
+  },
+  {
+    "name": "Nateesha",
+    "age": 21,
+    "grade": 9.1,
+    "dept": "CSE"
+  },
+  {
+    "name": "Neeraj",
+    "age": 21,
+    "grade": 9.5,
+    "dept": "CSE"
+  }
+]
