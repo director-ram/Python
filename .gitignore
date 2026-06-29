@@ -1,0 +1,11 @@
+__pycache__/
+.vscode/
+.env
+Hemasai_profile.json
+student.json
+students_info.csv
+students-data.txt
+students.db
+students.json
+students.txt
+school.db
