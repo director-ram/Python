@@ -123,7 +123,7 @@ else:
     print(f"Error: {response.status_code}")
 
 #POST method
-url = "https://httpbin.org/post"
+url1 = "https://httpbin.org/post"
 
 # data to send
 data = {
@@ -134,7 +134,7 @@ data = {
 }
 
 # post request to send data
-response = requests.post(url, json=data)
+response = requests.post(url1, json=data)
 
 print(response.status_code)
 #print(response.json()) # to see what server received
