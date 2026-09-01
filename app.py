@@ -19,6 +19,15 @@ def home():
 def user(name):
     return f"Hello, {name}!" #what to show when user visits the user page
 
+@app.route("/about") #route decorator
+def about():
+    return "This is a web application built using Flask." #what to show when user visits the about page
+
+@app.route("/user/<name>/about") #dynamic route
+def user_about(name):
+    return f"{name} is a user of this web application." #what to show when user visits the user about page
+
+
 #run the app
 if __name__ == "__main__":
     app.run(debug=True) #run the app in debug mode

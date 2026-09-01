@@ -1,0 +1,15 @@
+.head-message{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 10px;
+    color: blueviolet;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 2px 2px 1px rgba(240, 116, 15, 0.736);
+}
+
+.para-message{
+    color: black;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
